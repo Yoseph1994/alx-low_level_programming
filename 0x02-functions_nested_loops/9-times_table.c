@@ -15,7 +15,7 @@ k = j * i;
 if (j == 0)
 {
 _putchar (k + '0');
-i}
+}
 if (k < 10 && j != 0)
 {
 _putchar(',');
