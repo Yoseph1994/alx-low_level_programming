@@ -1,0 +1,1 @@
+Function ptr in c
